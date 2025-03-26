@@ -1,0 +1,1 @@
+C:/msys64/mingw32/bin/gcc.exe -m32 D:\Projects\Dot_matrix_led_panel\TEST\BX_05_06_SDK_20221011\bx_dual\BX-V-VI\bx.dual.cplus\src\main.c -o D:\Projects\Dot_matrix_led_panel\TEST\BX_05_06_SDK_20221011\bx_dual\BX-V-VI\bx.dual.cplus\src/output.exe -L"D:\Projects\Dot_matrix_led_panel\TEST\BX_05_06_SDK_20221011\bx_dual\BX-V-VI\bx.dual.cplus\src\lib" -lbx_sdk_dual
